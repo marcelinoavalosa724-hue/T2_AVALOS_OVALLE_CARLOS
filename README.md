@@ -9,3 +9,6 @@ Este repositorio tiene como finalidad demostrar el dominio práctico del control
 
 ## Evidencia T2
 Evaluación práctica 02 - Control de Versiones con Git y GitHub.
+
+## Control de cambios
+Se han realizado modificaciones en los archivos del proyecto para demostrar el control del área de preparación en la evaluación T2.
