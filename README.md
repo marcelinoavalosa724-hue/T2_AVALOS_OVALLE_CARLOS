@@ -12,3 +12,7 @@ Evaluación práctica 02 - Control de Versiones con Git y GitHub.
 
 ## Control de cambios
 Se han realizado modificaciones en los archivos del proyecto para demostrar el control del área de preparación en la evaluación T2.
+
+## Gestión de ramas
+**Rama utilizada:** feature-Avalos
+**Descripción:** Se agregó la clase Java ControlVersion_Avalos y esta sección para demostrar el desarrollo independiente y fusión de ramas.
