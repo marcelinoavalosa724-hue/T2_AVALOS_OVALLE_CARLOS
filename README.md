@@ -6,3 +6,6 @@
 
 **Descripción:** 
 Este repositorio tiene como finalidad demostrar el dominio práctico del control de versiones utilizando Git, incluyendo la gestión de repositorios, ramas, commits y sincronización con GitHub para la evaluación T2.
+
+## Evidencia T2
+Evaluación práctica 02 - Control de Versiones con Git y GitHub.
